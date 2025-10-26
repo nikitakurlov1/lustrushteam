@@ -1,0 +1,12 @@
+python-telegram-bot==20.7
+sqlalchemy==2.0.23
+aiosqlite==0.19.0
+python-dotenv==1.0.0
+pytz==2023.3
+openpyxl==3.1.2
+pandas==2.1.4
+APScheduler==3.10.4
+matplotlib==3.8.2
+plotly==5.18.0
+reportlab==4.0.7
+Pillow==10.1.0
